@@ -1,1 +1,2 @@
-In this project, raw housing data was cleaned, standardized and transformed to make it suitable for analysis and visualization. 
+All freelance projects in Phython are stored here
+
